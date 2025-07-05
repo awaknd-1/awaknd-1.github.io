@@ -1,5 +1,7 @@
 ---
 title: "Brain signal recognition using deep learning"
+collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-phd-thesis
 excerpt: 'This doctoral dissertation explores the application of deep learning methods to EEG signal classification, focusing on language-related neural decoding.'
 date: 2022-01-01
