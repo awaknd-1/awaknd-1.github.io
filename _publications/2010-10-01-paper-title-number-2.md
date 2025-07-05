@@ -1,5 +1,7 @@
 ---
 title: "Electrode selection and convolutional attention network for recognition of silently spoken words from EEG signals"
+collection: publications
+category: manuscripts
 permalink: /publication/2021-12-01-ssci-eeg-attention
 excerpt: 'Proposes a convolutional attention network combined with an electrode selection strategy to classify silently spoken words from EEG signals.'
 date: 2021-12-01
