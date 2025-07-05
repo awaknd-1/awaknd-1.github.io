@@ -1,8 +1,8 @@
 ---
 title: "Recognition of grammatical class of imagined words from EEG signals using convolutional neural network"
-permalink: /publication/2021-07-01-imagined-words-cnn
 collection: publications
 category: manuscripts
+permalink: /publication/2021-07-01-imagined-words-cnn
 excerpt: 'This study investigates the classification of imagined words into grammatical classes using convolutional neural networks applied to EEG signals.'
 date: 2021-07-01
 venue: 'Neurocomputing'
