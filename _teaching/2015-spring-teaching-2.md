@@ -1,20 +1,33 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Teaching Assistant – Microcontroller and Embedded Systems"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2017-fall-embedded-systems
+venue: "Brunel University London, Department of Electronic and Computer Engineering"
+date: 2017-11-01
+location: "London, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught undergraduate students the fundamentals of embedded systems from November 2017 to February 2019.
+
+Responsibilities included:
+
+- Demonstrating microcontroller-based experiments using Arduino and other platforms
+- Assisting students in coding simple programs in C and Python
+- Explaining sensor interfacing, PWM, and signal acquisition
+- Supporting coursework projects involving hardware-software integration
 
 Heading 1
 ======
 
+Hands-on Labs in Embedded Systems
+
 Heading 2
 ======
 
+Focused on real-time control and sensor integration
+
 Heading 3
 ======
+
+Bridging theory and practice in electronic engineering
