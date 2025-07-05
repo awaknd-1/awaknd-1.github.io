@@ -1,9 +1,11 @@
 ---
-title: "Brain signal recognition using deep learning"
-permalink: /publication/2022-01-01-phd-thesis
-excerpt: 'This doctoral dissertation explores the application of deep learning methods to EEG signal classification, focusing on language-related neural decoding.'
-date: 2022-01-01
-venue: 'Doctoral Dissertation, Brunel University London'
-paperurl: 'http://bura.brunel.ac.uk/handle/2438/23927'
-citation: 'Datta, S. (2022). "Brain signal recognition using deep learning." <i>Doctoral Dissertation, Brunel University London</i>.'
+title: "Recognition Of Silently Spoken Word From EEG Signals Using Dense Attention Network (DAN)"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-05-01-dan-eeg
+excerpt: 'Introduces a dense attention network (DAN) for EEG-based recognition of silently spoken words, presented at ICASSP 2022.'
+date: 2022-05-01
+venue: 'ICASSP 2022 - IEEE International Conference on Acoustics, Speech and Signal Processing'
+paperurl: 'https://ieeexplore.ieee.org/document/9746241'
+citation: 'Datta, S., Aondoakaa, A., Holmberg, J.J., & Antonova, E. (2022). "Recognition Of Silently Spoken Word From EEG Signals Using Dense Attention Network (DAN)." <i>ICASSP 2022</i>, 4558–4562.'
 ---
