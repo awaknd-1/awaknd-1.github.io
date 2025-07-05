@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 I am a neuroscientist and machine learning researcher with a deep interest in understanding brain function through computational methods. My academic journey began with a B.Sc. in Electronics from the University of Delhi, followed by an M.Sc. in Electronic and Electrical Engineering and a Ph.D. in Electronic and Computer Engineering from Brunel University London. My doctoral research focused on decoding imagined speech from EEG data using deep learning models.
 
